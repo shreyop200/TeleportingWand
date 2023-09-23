@@ -1,0 +1,14 @@
+name: TeleportingWand
+main: shreyop200\TeleportingWand\Main
+src-namespace-prefix: shreyop200\TeleportingWand
+version: 0.1.0
+api: [5.0.0, 4.0.0]
+load: POSTWORLD
+author: shreyop200
+description: Teleport Where You AIM By Right Click.
+website: https://wenpixel.games
+
+permissions:
+ tpwand.use:
+  default: true
+  description: "Allows the player to use the teleport wand"
